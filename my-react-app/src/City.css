@@ -1,0 +1,11 @@
+.card1{
+    /* background-color: antiquewhite; */
+    box-shadow: 1px 1px 12px 0.1px rgba(26, 25, 25, 0.594);
+    
+    /* border: 0.5px solid black; */
+    border-radius: 5px;
+    padding: 10px;
+    text-transform: uppercase;
+    height: 50px;
+    width: 320px;
+}
